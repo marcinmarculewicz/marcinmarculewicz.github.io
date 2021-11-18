@@ -9,11 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<h2>Education</h2> 
 ======
 * Ph.D in Physics, University of Białystok, 2021
 * M.S. in Chemistry, Warsaw University, Institute of Organic Chemistry, Polish Academy of Science, Warsaw  2015
 * B.S. in Chemistry, University of Białystok, 2013
+
+<span style="color:#5DADE2">[My full CV](https://marcinmarculewicz.github.io/files/CV_Marcin_Marculewicz.pdf)</span>
+
 
 
 <!-- Work experience
