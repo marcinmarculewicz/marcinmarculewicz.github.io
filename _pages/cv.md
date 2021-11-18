@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Chemistry, University of Białystok, 2013
-* M.S. in Chemistry, Warsaw University, Institute of Organic Chemistry, Polish Academy of Science, Warsaw  2015
 * Ph.D in Physics, University of Białystok, 2021
+* M.S. in Chemistry, Warsaw University, Institute of Organic Chemistry, Polish Academy of Science, Warsaw  2015
+* B.S. in Chemistry, University of Białystok, 2013
+
 
 <!-- Work experience
 ======
