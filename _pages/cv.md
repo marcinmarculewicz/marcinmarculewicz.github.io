@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Chemistry, University of Białystok, 2013
+* M.S. in Chemistry, Warsaw University, Institute of Organic Chemistry, Polish Academy of Science, Warsaw  2015
+* Ph.D in Physics, University of Białystok, 2021
 
-Work experience
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -57,3 +57,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
