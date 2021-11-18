@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Marcin Marculewicz"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Marcin Marculewicz"
 description              : &description "Astrophysicist"
