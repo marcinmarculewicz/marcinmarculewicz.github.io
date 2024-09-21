@@ -13,7 +13,7 @@ My research is focused on a peculiar type of quasars, namely, weak emission-line
 
 In 2022 I started a Postdoctoral Researcher position at the Department of Astronomy, Xiamen University under the supervision of Professor Mouyuan Sun, [see](https://www.msun.space/). During my post, a few articles have been concluded. 1) Study of the origin of an abnormal absorption in SDSS J110511.15+530806.5, [see](https://ui.adsabs.harvard.edu/abs/2022A%26A...668A.128M/abstract), 2) The reverberation mapping of X-ray weak quasars SDSS J153913.47+395423.4, [see](https://ui.adsabs.harvard.edu/abs/2023ApJ...956..126M/abstract), 3) Marculewicz et al. 2024, in prep.
 
-In 2024 I started a Postdoctoral Fellow position at the Physics and Astronomy Department, Wayne State University under the supervision of Professor Ed Cackett.[see](https://clasprofiles.wayne.edu/profile/ew1397).
+In 2024 I started a Postdoctoral Fellow position at the Physics and Astronomy Department, Wayne State University under the supervision of Professor Ed Cackett, [see](https://clasprofiles.wayne.edu/profile/ew1397).
 
 Currently, my research is mostly focused on reverberation mapping, measurement of time delays, and accretion disk sizes (Marculewicz et al. 2024, in prep.)
 
