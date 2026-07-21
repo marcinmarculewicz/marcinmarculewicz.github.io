@@ -15,7 +15,7 @@ In 2022, I started a Postdoctoral Researcher position at the Department of Astro
 
 In 2024, I started a Postdoctoral Fellow [position](https://clasprofiles.wayne.edu/profile/hx3524) at Wayne State University's Physics and Astronomy Department under the supervision of [Professor Ed Cackett](https://clasprofiles.wayne.edu/profile/ew1397).
 
-Intensive continuum reverberation mapping of the low-mass black hole AGN [NGC 4051](https://ui.adsabs.harvard.edu/abs/2026MNRAS.548ag642M/abstract) was concluded in 2026. We found an unusually red delay spectrum and a pronounced u-band excess. With the addition of the i and z lags significantly larger than expected and cannot be explained by a combination of disc emission and diffuse continuum from the broad-line region, making NGC 4051 a notable lag-luminosity outlier. 
+Intensive continuum reverberation mapping of the low-mass black hole AGN [NGC 4051](https://ui.adsabs.harvard.edu/abs/2026MNRAS.548ag642M/abstract) was concluded in 2026. We found an unusually red delay spectrum and a pronounced u-band excess. With the addition of the i and z lags significantly larger than expected and cannot be explained by a combination of disk emission and diffuse continuum from the broad-line region, making NGC 4051 a notable lag-luminosity outlier. 
 
 Currently, my research mostly focuses on reverberation mapping, measurement of time delays, and accretion disk sizes.
 
